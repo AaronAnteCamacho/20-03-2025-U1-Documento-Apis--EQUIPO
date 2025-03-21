@@ -1,0 +1,16 @@
+{
+  "name": "api-productos-proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto para consumir la API de productos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
+
